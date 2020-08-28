@@ -4,7 +4,6 @@
 
 #include <WiFi.h>
 #include <WiFiClient.h>
-#include <Update.h>
 #include <DHT.h>
 #include <HTTPClient.h>
 
